@@ -1,0 +1,10 @@
+D:\My_Program\Projects\school_work\Decimal_Convert\Decimal_Convert\bin\Debug\Decimal_Convert.exe.config
+D:\My_Program\Projects\school_work\Decimal_Convert\Decimal_Convert\bin\Debug\Decimal_Convert.exe
+D:\My_Program\Projects\school_work\Decimal_Convert\Decimal_Convert\bin\Debug\Decimal_Convert.pdb
+D:\My_Program\Projects\school_work\Decimal_Convert\Decimal_Convert\obj\Debug\Decimal_Convert.csprojAssemblyReference.cache
+D:\My_Program\Projects\school_work\Decimal_Convert\Decimal_Convert\obj\Debug\Decimal_Convert.Form1.resources
+D:\My_Program\Projects\school_work\Decimal_Convert\Decimal_Convert\obj\Debug\Decimal_Convert.Properties.Resources.resources
+D:\My_Program\Projects\school_work\Decimal_Convert\Decimal_Convert\obj\Debug\Decimal_Convert.csproj.GenerateResource.cache
+D:\My_Program\Projects\school_work\Decimal_Convert\Decimal_Convert\obj\Debug\Decimal_Convert.csproj.CoreCompileInputs.cache
+D:\My_Program\Projects\school_work\Decimal_Convert\Decimal_Convert\obj\Debug\Decimal_Convert.exe
+D:\My_Program\Projects\school_work\Decimal_Convert\Decimal_Convert\obj\Debug\Decimal_Convert.pdb
